@@ -1,0 +1,239 @@
+/* Edit the Background Image. Get the Image Address by right clicking the image and clicking 'Copy Image Address' */
+
+.HomeBackground{
+  background-image: url('https://iili.io/d4OdSTX.png') !important;
+}
+.CrossHair {
+  background-image: url('https://iili.io/dUOxLQV.png') !important;
+  color: #fff;
+  font-size: 0rem;
+  font-weight: 300;
+  height: 20px;
+  left: 50%;
+  line-height: 20px;
+}
+
+CrossHair
+  color: #fff;
+  font-size: 2.5rem;
+  font-weight: 300;
+  height: 20px;
+  left: 50%;
+  line-height: 20px;
+}
+
+.WholeAppWrapper
+  background-image: url('https://iili.io/dUKoW5N.png') !important;
+} 
+/* Change Gamemodes Thumbnails */
+
+.GameCardContainer .AvailableGame .AvailableGameTextWrapper .AvailableGameTextWrapperBackground {
+  background-color: #177bab !important;
+}
+
+.AvailableGame .AvailableGamebedwarsduo {
+  background-image: url('https://iili.io/dezEAFf.jpg') !important; /* Change Bedwars Thumbnail */
+}
+
+.AvailableGame .AvailableGamebedwars4v4v4v4 {
+  background-image: url('https://iili.io/deIyOB4.png') !important; /* Change Bedwars 4v4v4v4 Thumbnail */
+}
+/* Healthbar Changes */
+.BottomScreenStatBar {
+  background-color: darkturquoise;
+  border: .25rem solid deepskyblue;
+  box-shadow: inset 0 .4rem 0 0 darkturquoise, inset 0 -.4rem 0 0 dodgerblue;
+}
+
+.BottomScreenStatBarWrapper {
+  left: 14.4rem;
+}
+/* Hotbar Changes */
+.HotBar .HotBarItem {
+  background-color: #1f779561 !important; /* Background Colour of Hotbar */
+  border: .25rem solid #2b93c5 !important; /* You can edit the thickness of the border, alongside the border type & colour */
+}
+
+/* Same thing but with Selected Items */
+
+.HotBar .HotBarItem.SelectedItem {
+   background-color: #2c94b761 !important;
+   border: .25rem solid #22a3e1 !important;
+}
+
+.HotBar .HotBarItem.ButtonHotBarItem {
+  opacity: 0 !important;
+}
+/* Settings changes */
+.SettingsMenu {
+  background-color: #233e494f;
+  border: 3px solid #00d0ff;
+  border-radius: 1rem;
+  box-shadow: .2rem .25rem 0 rgb(255 255 255 / 0%)
+}
+
+.SettingsMenuLeft {
+  background-color: #0095ff21;
+}
+
+.ActiveSettingsSectionTitle{
+  background-color: #00b8ff5c !important;
+  border-bottom: 0px solid #ffffff00 !important;
+  border-bottom-width: 0px;
+  border-top: 0px solid #ffffff00 !important;
+  color: #00f1ff !important;
+}
+
+.SettingsSectionTitle:hover{
+  background-color: #00b8ff5c;
+  border-bottom: 0px solid #ffffff00;
+  border-top: 0px solid #ffffff00;
+  color: #00f1ff;
+}
+
+.ShopBody {
+  background-color: rgb(0 42 119 / 14%);
+  border: 1px solid #00dcff;
+}
+
+.ShopSidebarMenu {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.SidebarMenu {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.ShopItemHeaderDiv {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.ShopItem {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.SelectedShopItem {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.ActiveSidebarMenuTitleTitle {
+  background-color: #00b8ff42;
+  color: #14f2ff;
+  border-bottom:0px solid #00000000 transparent;
+  border-top:0px solid #00000000 transparent;
+}
+
+.SidebarMenuTitle {
+   background-color: #0077af45;
+   border-bottom:0px solid #00000000 !important;
+   border-top:0px solid #00000000 !important;
+   color:#ffffff;
+}
+
+.ShopItemHeaderDiv {
+  background-color: #22c2ff;
+}
+
+.ActiveSettingsSectionTitle {
+  border-bottom: 1px solid #303a5900;
+  border-top: 1px solid #303a5900;
+}
+
+.SelectedItemHeaderDiv {
+  background-color: #00b8ff;
+}
+
+.SelectedItemViewer {
+  background-color: #00b8ff33;
+}
+
+.Inventory {
+  background-color: #00c4ff36;
+  border: 0px solid;
+  box-shadow: .2rem .25rem 0 rgb(0 103 209 / 32%);
+}
+
+.InvenItem {
+  background-color: #ffffff00;
+  border-color: rgb(0, 220, 255);
+}
+
+.CharCustomisation {
+  background-color: #00a1ff2e;
+  border: 3px solid #00e7ff;
+  border-radius: 1.35rem;
+  box-shadow: .2rem .25rem 0 rgb(0 184 255 / 35%);
+}
+
+.CharCustomisation {
+  background-color: #00a9db52;
+}
+
+.loader .loader-inner,.loader .loader-outer {
+  background-image: url('https://iili.io/dNmeckg.png') !important;
+}
+
+LogoLoaderLoadingContainer
+WholeAppWrapper
+WholeAppWrapperInner
+
+.cube .cube-face .overlay {
+  background-image: url('https://iili.io/dOj82Ag.png') !important;
+}
+
+.AccountContainer .AccountPreviewContainer .AccountPreview .AccountPreviewInner .PFP img {
+  background-image: url('https://iili.io/dOj82Ag.png') !important;
+}
+
+.ControlsContainer .ControlRow {
+  background-image: url('https://iili.io/dUOuGtf.png') !important;
+}
+
+.AccountContainer .AccountPreviewContainer .AccountPreview .AccountPreviewBackground {
+  background-color: #177bab !important;
+}
+
+.Header .HeaderRightContainer .HeaderRight .HeaderRightBackground {
+  background-color: #177bab !important;
+}
+
+.HomeScreenBottomRight .BottomRightInfoBox .BottomRightInfoBoxBackground {
+  background-color: #177bab !important;
+}
+
+.BloxdDropdownControl {
+  background-image: url('https://iili.io/dUOuGtf.png') !important;
+}
+
+.TexturePackCategory .CustomTexturePackContainer {
+    border: 1px solid #00ceff !important;
+    border-radius: .5rem;
+    box-sizing: border-box;
+    margin-top: 2rem;
+    overflow: hidden;
+    width: 100%
+}
+
+.TexturePackCategory .CustomTexturePackContainer .CustomTextureWarning {
+    background-color: #00ceff !important;
+    color: #000;
+    font-size: 1rem;
+    padding: .4rem .5rem;
+    text-shadow: 0 0 0 #000
+}
+
+.TexturePackCategory .TexturePack.Selected {
+  border: 2px solid #14deff !important;
+}
+
+.BlueButton {
+    --buttonNormalColour: #12b6db !important;
+    --buttonHoverColour: #17cbf3;
+    --buttonTopColour: #8200ffc4;
+    --buttonBottomColour: #119cbb;
+}
